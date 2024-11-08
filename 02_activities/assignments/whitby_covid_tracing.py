@@ -16,6 +16,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 ATTACK_RATE = 0.10
 TRACE_SUCCESS = 0.20
 SECONDARY_TRACE_THRESHOLD = 2
+np.random.seed(42)
 
 def simulate_event(m):
   """
