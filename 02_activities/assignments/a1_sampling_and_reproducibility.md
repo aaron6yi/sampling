@@ -12,8 +12,9 @@ Alter the code so that it is reproducible. Describe the changes you made to the 
 
 # Author: YI ZHANG
 
-```
-Q1 : he blog post by Andrew Whitby dives into how contact tracing can give a skewed view of where infections are happening. The code for this model mimics that scenario by simulating infections at two types of events—weddings and brunches—and then seeing how contact tracing changes what we think about where infections started.
+
+#### Q1 :
+The blog post by Andrew Whitby dives into how contact tracing can give a skewed view of where infections are happening. The code for this model mimics that scenario by simulating infections at two types of events—weddings and brunches—and then seeing how contact tracing changes what we think about where infections started.
 
 Step 1: Setting Up Events and Attendees
 In the model, there are 1,000 people, split into two groups: 200 go to weddings and 800 to brunches. This split sets up our scene, showing that some events are bigger than others, which mirrors real life. These people become our “sampling frame,” or the pool we’re drawing from.
@@ -27,9 +28,9 @@ Next up, the model performs primary contact tracing on the infected group. This 
 Step 4: Secondary Contact Tracing (Adding a Bias)
 Now, here’s where the bias starts to sneak in. If any event has at least two traced infections, everyone infected at that event is also traced, no matter what. It’s not random this time—it’s a rule. So if a wedding hits that threshold, all infected wedding attendees automatically get traced. This creates a kind of feedback loop where bigger or more “traceable” events (like weddings) start to look like hot spots, even if brunches have just as many infections.
 
-Q2:
+#### Q2:
 
-```
+
 
 
 ## Criteria
