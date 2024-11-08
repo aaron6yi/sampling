@@ -53,12 +53,17 @@ Alter the code so that it is reproducible. Describe the changes you made to the 
 #### Q2
 
 Does this code appear to reproduce the graphs from the original blog post?
+
 No, the graph appears different from the one in the original blog post.
 
 ---
 
 #### Q3
 
+I reduced the number of repetitions in the simulation from the original 50,000 to 1,000 and ran the script multiple times. Each time, the plot looks slightly different, but the samples generally follow the same distribution.
+
+---
+#### Q4
 
 ## Criteria
 
