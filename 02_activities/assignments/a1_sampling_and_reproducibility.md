@@ -50,9 +50,14 @@ Alter the code so that it is reproducible. Describe the changes you made to the 
 
 ---
 
-#### Q2:
+#### Q2
 
+Does this code appear to reproduce the graphs from the original blog post?
+No, the graph appears different from the one in the original blog post.
 
+---
+
+#### Q3
 
 
 ## Criteria
