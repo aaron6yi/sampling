@@ -10,10 +10,24 @@ Modify the number of repetitions in the simulation to 1000 (from the original 50
 
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
-# Author: YOUR NAME
+# Author: YI ZHANG
 
 ```
-Please write your explanation here...
+Q1 : he blog post by Andrew Whitby dives into how contact tracing can give a skewed view of where infections are happening. The code for this model mimics that scenario by simulating infections at two types of events—weddings and brunches—and then seeing how contact tracing changes what we think about where infections started.
+
+Step 1: Setting Up Events and Attendees
+In the model, there are 1,000 people, split into two groups: 200 go to weddings and 800 to brunches. This split sets up our scene, showing that some events are bigger than others, which mirrors real life. These people become our “sampling frame,” or the pool we’re drawing from.
+
+Step 2: Infecting a Random Subset
+The first sampling happens when the model infects 10% of these attendees. This means around 100 people randomly get infected, and it’s done without replacement (so no double infections). Each person, whether they’re at a wedding or brunch, has the same chance of infection. So, the infection here is pretty straightforward and evenly spread.
+
+Step 3: Primary Contact Tracing
+Next up, the model performs primary contact tracing on the infected group. This is where it gets interesting: each infected person has a 20% chance of being traced. So, if someone is infected, there’s a 1-in-5 shot they’ll get tagged as “traced.” This sampling step is like flipping a coin with weighted odds for each infected person. It only applies to those already infected, so it’s conditional sampling.
+
+Step 4: Secondary Contact Tracing (Adding a Bias)
+Now, here’s where the bias starts to sneak in. If any event has at least two traced infections, everyone infected at that event is also traced, no matter what. It’s not random this time—it’s a rule. So if a wedding hits that threshold, all infected wedding attendees automatically get traced. This creates a kind of feedback loop where bigger or more “traceable” events (like weddings) start to look like hot spots, even if brunches have just as many infections.
+
+Q2:
 
 ```
 
