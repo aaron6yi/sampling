@@ -16,30 +16,89 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+ to understand the reasons behind high turnover rates among entry- and lower-level employees. By gathering feedback on job satisfaction, work environment, and potential areas for improvement, the company aims to identify key factors contributing to employee dissatisfaction and develop strategies to enhance retention and engagement.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population:
+Entry- and lower-level employees at the company.
+
+Sampling Frame:
+Employee contact list, including all entry- and lower-level employees within each department.
+
+Sampling Units:
+Individual employees in entry- and lower-level positions.
+
+Sampling Strategy:
+A stratified random sampling approach will be used, ensuring representation across different departments to capture diverse perspectives on turnover factors.
+
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How happy are you with what you’re working on day-to-day?
+   - Very happy
+   - Pretty happy
+   - It’s okay
+   - Not really happy
+   - Really unhappy
+2. How clear are your goals and expectations at work?
+   - Very clear
+   - Mostly clear
+   - Somewhat clear
+   - Not very clear
+   - Not clear at all
+3. How well do you think your contributions are recognized and appreciated by the company? 
+   - Very well
+   - Pretty well
+   - Sometimes
+   - Not very well
+   - Not at all
+4. How would you describe the communication between teams/departments in the company? 
+   - Excellent
+   - Good
+   - Average
+   - Poor
+   - Very poor
+5. How well does the company’s culture align with your personal values?
+   - Perfectly aligned
+   - Mostly aligned
+   - Somewhat aligned
+   - Not very aligned
+   - Not at all aligned
+6. How would you rate your current work-life balance?
+   - Perfect balance
+   - Good balance
+   - It’s okay
+   - Needs improvement
+   - Poor balance
+7. Do you feel you have a clear path toward promotion within your role?
+   - Very clear
+   - Somewhat clear
+   - Neutral
+   - Not very clear
+   - No clear path at all
+8. Do you feel that promotion opportunities here are fair and accessible to everyone?
+   - Strongly agree
+   - Agree
+   - Neutral
+   - Disagree
+   - Strongly disagree
+9. How often do you feel that your feedback is listened to and acted upon?
+   - Always
+   - Usually
+   - Sometimes
+   - Rarely
+   - Never
+10. Would you recommend our company as a good place to work to a friend?
+    - Yes
+    - No
+    - Not sure
 ```
 
 ## Rubric
@@ -60,9 +119,9 @@ Your 5-10 question survey:
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `questionnaire-a`.
-- [ ] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
-- [ ] Verify that the link is accessible in a private browser window.
+- [x] Create a branch called `questionnaire-a`.
+- [x] Ensure that the repository is public.
+- [x] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [x] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack at `#cohort-3-help`. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
