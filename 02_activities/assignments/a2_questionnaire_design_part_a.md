@@ -34,6 +34,9 @@ Employee contact list, including all entry- and lower-level employees within eac
 Sampling Units:
 Individual employees in entry- and lower-level positions.
 
+Observational Units:
+These are the individual employees in entry- and lower-level positions who provide feedback.
+
 Sampling Strategy:
 A stratified random sampling approach will be used, ensuring representation across different departments to capture diverse perspectives on turnover factors.
 
