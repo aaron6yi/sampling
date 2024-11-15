@@ -4,7 +4,7 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+    I believe the quality of my sample is good, though not perfect. The stratified random sampling approach likely ensures a high-quality sample by representing entry- and lower-level employees across various departments. However, there are potential limitations. Employees who feel overworked, disengaged, or have already left the company may opt out of the survey, leading to non-response bias. Additionally, some employees might hesitate to provide honest answers if they have concerns about the survey's anonymity or confidentiality.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
