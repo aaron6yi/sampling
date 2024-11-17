@@ -3,21 +3,48 @@
 ## Requirements
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
-    ```
-    write your answer here...
-    ```
+I believe the quality of my sample is good, though not perfect. The stratified random sampling approach likely ensures a high-quality sample by representing entry- and lower-level employees across various departments. However, there are potential limitations. Employees who feel overworked, disengaged, or have already left the company may opt out of the survey, leading to non-response bias. Additionally, some employees might hesitate to provide honest answers if they have concerns about the survey's anonymity or confidentiality.
+  
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
-    ```
-    write your answer here...
-    ```
+   **Ensuring Anonymity and Confidentiality**  
+   I added the following statement at the beginning of the survey:  
+   > "Your responses will remain completely anonymous and confidential. The data collected will only be used to improve workplace satisfaction and address concerns."  
+   This ensures employees feel secure providing honest feedback, reducing response bias.  
+
+   **Adjusting Emotional Wording**  
+   Updated Question 1 response options to make the language more neutral:  
+   - "Really unhappy" → **"Very dissatisfied"**  
+   - "Not really happy" → **"Not satisfied"**  
+   Neutral phrasing avoids triggering emotional bias and encourages accurate responses.  
+
+   **Combining Related Questions**  
+   Merged two similar questions into one:  
+   > "How well does the company’s culture and policies support your work-life balance and personal values?"  
+   - Perfectly aligned  
+   - Mostly aligned  
+   - Somewhat aligned  
+   - Not very aligned  
+   - Not at all aligned  
+   This simplifies the survey without losing focus on critical issues.  
+
+   **Adding a New Question**  
+   Added the following question:  
+   > "How frequently do you see other employees being unfairly treated?"  
+   - Always  
+   - Usually  
+   - Sometimes  
+   - Rarely  
+   - Never  
+This question helps uncover systemic issues like perceived unfair treatment, offering insights into patterns that may affect both current and former employees, thereby informing strategies to improve retention and workplace satisfaction.
+
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
-    ```
-    write your answer here...
-    ```
+Yes, partially.
+
+An observational study could provide valuable insights by analyzing HR records, exit interviews, and performance metrics. For example, it could identify turnover patterns, such as specific departments or roles with high attrition rates, or reveal trends like dissatisfaction with promotion processes. This approach offers the advantage of bypassing potential biases in direct employee feedback, relying instead on objective data for actionable insights. However, an observational study alone cannot fully address all the goals of the survey. For instance, it may struggle to uncover employees’ perceptions, emotions, or nuanced opinions, such as concerns about workplace culture or satisfaction with policies. Moreover, it doesn’t provide a way to capture feedback from former employees who have already left, which could lead to gaps in understanding systemic issues. Direct employee input remains essential to gain a complete picture and develop effective strategies to improve workplace satisfaction and retention.
 
 ## Why am I doing this assignment?
 
